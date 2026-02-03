@@ -1,1 +1,4 @@
-
+"Python is a dynamically typed language, meaning variable declaration is not required. However, 
+it supports optional static typing via Type Hints to improve code readability and tooling support."
+eg Name = "Eswar"
+name: str = "Eswar"
