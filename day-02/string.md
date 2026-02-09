@@ -10,6 +10,18 @@ You can access individual characters in a string using indexing, e.g., string[0]
 
 eg : hostnane = "router_lab2" we can hostname[0] give 'r'
 
-we also do negitive indexing i.e 
+we also do negitive indexing i.e we can acess the char from backward  
+hostname = "router_lab2" 
+print(hostname[-1]) gives '2'
+
+we have 3 operations in string i.e 
+               strings
+                  |
+                  |
+   |---------------|-----------------|
+
+concatenation      membership      Repetition
 
 
+concatenation of string : 
+   
